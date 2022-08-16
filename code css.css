@@ -1,0 +1,36 @@
+nav{
+    background-color: rgb(191, 139, 239);
+}
+
+#sante{
+    position: relative;
+    left: 80;
+    top: 0;
+}
+
+#conseil{
+    position: relative;
+    right: 0;
+    top: 0;
+
+}
+#arabe{
+    text-align: right;}
+hgroup{
+      background-color: aquamarine;
+      text-align: center;}
+figure{
+
+    color:aqua
+    text-align: center
+}
+
+
+section {
+                 display:grid;
+                 grid-template-columns: auto auto ;
+                 text-align: center}
+
+     img{width: unset :50%;}
+    p{text-align: center;
+    font-family:'lucida sans','kucida sans regular','lucida grand' geneva,verdana,;}
